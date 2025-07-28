@@ -43,7 +43,7 @@ IMSB Jhang Syedan, Islamabad | *2018 – 2020*
 - Dark Web Intro – EC-Council *(Feb 2025)*  
 - Computer Basics & Advanced – Govt. of Pakistan *(Aug 2020)*  
 - TryHackMe: Cyber Security 101
-
+- TCM: PNPT
 ---
 
 ## 🧰 Technical Skills
