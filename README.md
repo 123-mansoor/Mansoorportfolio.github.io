@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="220px" align="center">
-  <img src="profile pic.jpg" width="180" alt="Mansoor Khan" style="border-radius: 10px;">
+  <img src="profile pic.jpg" width="220" alt="Mansoor Khan" style="border-radius: 10px;">
 </td>
 <td>
 
