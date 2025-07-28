@@ -1,3 +1,10 @@
+<table>
+<tr>
+<td width="220px" align="center">
+  <img src="profile.jpg" width="180" alt="Mansoor Khan" style="border-radius: 10px;">
+</td>
+<td>
+
 # 👨‍💻 Mansoor Khan
 
 **Entry-Level Cybersecurity Professional | Red Teaming | Penetration Testing | Ethical Hacking**
@@ -6,6 +13,10 @@
 📧 mansoorxyz06@gmail.com  
 📱 0326-5335825  
 🔗 [LinkedIn](https://www.linkedin.com/in/mansoor-k-5687b1299) | [GitHub](https://github.com/123-mansoor)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -43,7 +54,7 @@ IMSB Jhang Syedan, Islamabad | *2018 – 2020*
 - Dark Web Intro – EC-Council *(Feb 2025)*  
 - Computer Basics & Advanced – Govt. of Pakistan *(Aug 2020)*  
 - TryHackMe: Cyber Security 101
-- TCM: PNPT
+
 ---
 
 ## 🧰 Technical Skills
