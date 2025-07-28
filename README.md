@@ -99,4 +99,4 @@ IMSB Jhang Syedan, Islamabad | *2018 – 2020*
 
 ---
 
-> 🚀 *Actively seeking opportunities in cybersecurity (Red Team / Penetration Testing / SOC Analyst). Let's connect!*
+> 🚀 *Actively seeking opportunities in cybersecurity (Red Team / Penetration Testing). Let's connect!*
